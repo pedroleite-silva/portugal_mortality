@@ -1,0 +1,22 @@
+# ---- R session artefacts ----
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+
+# ---- VS Code ----
+.vscode/
+
+# ---- macOS ----
+.DS_Store
+
+# ---- Project-specific ----
+# (nothing yet — add rules here as the project grows)
